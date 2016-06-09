@@ -1,4 +1,4 @@
 <?php
-  // print hello world! Making things happen 
+  // print hello world! 
   echo "hello world!"
 ?>
